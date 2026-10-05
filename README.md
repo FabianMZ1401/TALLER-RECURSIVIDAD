@@ -1,18 +1,15 @@
-## Getting Started
+# TALLER-RECURSIVIDAD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Nombre del estudiante
+[Eisner Fabian Muñoz Zuñiga]
 
-## Folder Structure
+## Descripción del taller
+Este taller corresponde a la asignatura de Estructuras de Datos. Contiene la solución a 14 ejercicios de algoritmos recursivos. Para mantener un código limpio y ordenado, cada ejercicio se implementó en una clase independiente en Java dentro del paquete `Recursividad`, junto con una clase principal (`Main.java`) que despliega un menú interactivo por consola.
 
-The workspace contains two folders by default, where:
+## Instrucciones para ejecutar el programa
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clonar este repositorio en tu equipo:
+   ```bash
+   git clone https://github.com/FabianMZ1401/TALLER-RECURSIVIDAD.git
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   
